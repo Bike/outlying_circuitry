@@ -1,1 +1,1 @@
-A few miscellaneous baubles of harware code.
+A few miscellaneous baubles of hardware code.
